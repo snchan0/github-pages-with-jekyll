@@ -1,4 +1,5 @@
-title: Your awesome title
+title: "my first blog post"
+date: 2021-04-02
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,6 +15,5 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
 ---
-title: "my first blog post"
-date: 2021-04-02
+
 ---
